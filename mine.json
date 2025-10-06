@@ -1,0 +1,352 @@
+[
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/ch3.png",
+		"name": "CH3 HD",
+		"title": "CH3 HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/tv5.png",
+		"name": "CH5 HD",
+		"title": "CH5 HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/ch7.png",
+		"name": "CH7 HD",
+		"title": "CH7 HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/mcot.png",
+		"name": "MCOT HD",
+		"title": "MCOT HD",
+		"uris": ["https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/30/30.mpd"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/nbt.png",
+		"name": "NBT HD",
+		"title": "NBT HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/thaipbs.png",
+		"name": "ThaiPBS HD",
+		"title": "ThaiPBS HD",
+		"uris": ["https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/tptv.png",
+		"name": "TPTV",
+		"title": "TPTV",
+		"uris": ["https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TOPNEWS.PNG",
+		"name": "Topnews HD",
+		"title": "Topnews HD",
+		"uris": ["https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/thairath.png",
+		"name": "Thairath HD",
+		"title": "Thairath HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/amarin.png",
+		"name": "AmarinTV",
+		"title": "AmarinTV",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/pptv.png",
+		"name": "PPTV HD",
+		"title": "PPTV HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/one.png",
+		"name": "ONE HD",
+		"title": "ONE HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/nation.png",
+		"name": "NationTV",
+		"title": "NationTV",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/workpoint.png",
+		"name": "WorkpointTV",
+		"title": "WorkpointTV",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/ch8.png",
+		"name": "CH8 SD",
+		"title": "CH8 SD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/mono29.png",
+		"name": "Mono29 HD",
+		"title": "Mono29 HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/tnn16.png",
+		"name": "TNN16 HD",
+		"title": "TNN16 HD",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/true4u.png",
+		"name": "True4U",
+		"title": "True4U",
+		"uris": ["https://iptv36.vercel.app/api/true.m3u8?channel=true4u"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/gmm25.png",
+		"name": "GMM25",
+		"title": "GMM25",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/jkn18.png",
+		"name": "JKN18",
+		"title": "JKN18",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/tsports.png",
+		"name": "T-Sports",
+		"title": "T-Sports",
+		"uris": ["https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+		{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://iptv36.vercel.app/logo/altv.png",
+		"name": "ALTV",
+		"title": "ALTV",
+		"uris": ["https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies1",
+		"title": "Movies1",
+		"uris": ["http://49.0.64.96:8007/IZAA"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies2",
+		"title": "Movies2",
+		"uris": ["http://49.0.64.96:8007/PING"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies3",
+		"title": "Movies3",
+		"uris": ["http://49.0.64.96:8007/SERIES"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies4",
+		"title": "Movies4",
+		"uris": ["http://49.0.64.96:8007/Cartoonumi"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies5",
+		"title": "Movies5",
+		"uris": ["http://49.0.64.96:8007/Animal"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ทีวีดิจิตอล",
+		"logo": "https://psdstamps.com/wp-content/uploads/2020/01/movies-stamp-png.png",
+		"name": "Movies6",
+		"title": "Movies6",
+		"uris": ["http://49.0.64.96:8007/WSCI"],
+	        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "CNN",
+		"title": "CNN",
+		"uris": ["https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "CBS News",
+		"title": "CBS News",
+		"uris": ["https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "BBC",
+		"title": "BBC",
+		"uris": ["https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Bloomberg",
+		"title": "Bloomberg",
+		"uris": ["https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Fox",
+		"title": "Fox",
+		"uris": ["https://jmp2.uk/sam-USBA300024TN.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "NHKWorld",
+		"title": "NHKWorld",
+		"uris": ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "ANTV",
+		"title": "ANTV",
+		"uris": ["http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "NDTV",
+		"title": "NDTV",
+		"uris": ["https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "FashionTV",
+		"title": "FashionTV",
+		"uris": ["https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "MOVIE1",
+		"title": "MOVIE1",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=65"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "MOVIE2",
+		"title": "MOVIE2",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=181"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "F1",
+		"title": "F1",
+		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "FAILARMY",
+		"title": "FAILARMY",
+		"uris": ["https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"]
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "Drybarcomedy",
+		"title": "Drybarcomedy",
+		"uris": ["https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8"]
+	}
+]
